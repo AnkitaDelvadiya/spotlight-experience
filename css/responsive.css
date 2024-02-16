@@ -1,0 +1,131 @@
+@media (min-width: 1600px) and (max-width: 1900px) {
+    .our-story .sportlight-bg img {
+        width: 500px;
+    }
+    .open-door h4 {
+        font-size: 45px;
+    }
+    .open-door span {
+        font-size: 40px;
+    }
+    .open-door .open-door-blk .open-door-item .door-item-inner h6 {
+        font-size: 45px;
+    }
+    .changing .changing-wrap h4 {
+        font-size: 45px;
+    }
+    .meet .meet-wrap h4 {
+        font-size: 45px;
+    }
+    .belong h5 {
+        font-size: 45px;
+    }
+    #arrow-animation{
+        width: 630px !important;
+        position: absolute;
+        left: -40px;
+        top: -174px;
+    }
+    .container {
+        max-width: 1560px !important;
+    }
+    #box-animation{
+        width: 507px !important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1599px) {
+    #box-animation{
+        width: 400px !important;
+        margin-top: -80px;
+    }
+    .our-story .sportlight-bg img {
+        width: 400px;
+    }
+    .open-door h4 {
+        font-size: 35px;
+    }
+    .open-door span {
+        font-size: 30px;
+    }
+    .open-door .open-door-blk .open-door-item .door-item-inner h6 {
+        font-size: 35px;
+    }
+    .changing .changing-wrap h4 {
+        font-size: 35px;
+    }
+    .meet .meet-wrap h4 {
+        font-size: 35px;
+    }
+    .belong h5 {
+        font-size: 35px;
+    }
+    .container {
+        max-width: 1140px !important;
+    }
+    .header .header-left .logo a svg {
+        max-width: 170px;
+        top: -2px;
+    }
+    .header .header-left h2 {
+        font-size: 20px;
+    }
+    .about h2 {
+        font-size: 30px;
+    }
+    .our-story h5 {
+        font-size: 35px;
+    }
+    .our-story .our-story-wrap p {
+        padding-right: 0px;
+    }
+    .marquee span {
+        font-size: 25px;
+    }
+    .marquee {
+        height: 60px;
+    }
+    .open-door .open-door-blk {
+        margin-left: 0px;
+    }
+    .meet .meet-blk .meet-blk-item h4 {
+        font-size: 20px;
+    }
+    .meet .meet-blk .meet-blk-item span {
+        font-size: 18px;
+    }
+    .meet .meet-blk .meet-blk-item p {
+        font-size: 17px;
+    }
+    .meet .meet-blk .meet-blk-item {
+        margin-bottom: 50px;
+    }
+    .footer p {
+        font-size: 15px;
+        padding: 16px 10px;
+    }
+    .footer .container {
+        max-width: 1000px !important;
+    }
+    .footer img {
+        margin: 0 5px;
+    }
+    .meet .meet-blk .meet-blk-item img {
+        width: 220px;
+    }
+    .our-story {
+        padding-top: 250px;
+    }
+    .our-story:before {
+        top: 230px;
+    }
+    #arrow-animation{
+        width: 510px !important;
+        position: absolute;
+        left: -40px;
+        top: -183px;
+    }
+    .changing .changing-wrap p{
+        padding: 0px 0 0 230px;
+    }
+}
